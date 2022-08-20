@@ -1,28 +1,28 @@
 {
-    "$schema": "https://x.nest.land/eggs@0.3.10/src/schema.json",
-    "name": "cheerio",
-    "entry": "./mod.ts",
-    "description": "Cheerio - Porting Cheerio Node Module To Deno",
-    "homepage": "https://github.com/mskian/deno-cheerio-js",
-    "version": "0.0.1",
-    "releaseType": null,
-    "unstable": false,
-    "unlisted": false,
-    "files": [
-      "README.md"
-    ],
-    "ignore": [
-      ".git",
-      ".github",
-      "LICENSE",
-      "deno.json",
-      ".vscode",
-      ".gitignore",
-      "test.ts",
-      "score.ts"
-    ],
-    "checkFormat": "deno fmt",
-    "checkTests": false,
-    "checkInstallation": false,
-    "check": true
-  }
+  "$schema": "https://x.nest.land/eggs@0.3.10/src/schema.json",
+  "name": "cheerio",
+  "entry": "./mod.ts",
+  "description": "Cheerio - Porting Cheerio Node Module To Deno",
+  "homepage": "https://github.com/mskian/deno-cheerio-js",
+  "version": "0.0.1",
+  "releaseType": null,
+  "unstable": false,
+  "unlisted": false,
+  "files": [
+    "README.md"
+  ],
+  "ignore": [
+    ".git",
+    ".github",
+    "LICENSE",
+    "deno.json",
+    ".vscode",
+    ".gitignore",
+    "test.ts",
+    "score.ts"
+  ],
+  "checkFormat": "deno fmt",
+  "checkTests": false,
+  "checkInstallation": false,
+  "check": true
+}
