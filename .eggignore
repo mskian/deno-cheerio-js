@@ -1,0 +1,12 @@
+.git*/**
+.idea/**
+.vscode/**
+benchmarks/**
+eggs-debug.log
+.github
+LICENSE
+deno.json
+.vscode
+.gitignore
+test.ts
+score.ts
